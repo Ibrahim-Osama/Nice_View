@@ -1,0 +1,222 @@
+    *{
+        box-sizing: border-box;
+        
+    }
+
+    .cll{
+        color: white;
+    }
+
+.inde{
+width: 2rem;
+height: 2rem;
+background-color: black;
+position: fixed;
+left: 0px;
+top: 150px;
+z-index: 99999999;
+box-shadow: white 10%,10%,10%,10%;
+}
+
+.icon-p{
+    color: white;
+}
+
+    .fonth:hover{
+        color: red;
+    }
+.ho{
+    color: white !important;
+    padding-left:  2% !important;
+    font-family: 'Open Sans', sans-serif;
+ 
+}
+.ha{
+color: red !important;
+}
+
+.ho:hover{
+    color: red !important;
+}
+.bor{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+
+.ptt{
+    position: relative;
+
+}
+
+.tt{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-size: 3rem;
+    color: white;
+    font-weight: 900;
+}
+.ff{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-weight: 900;
+
+}
+.po{
+    position: absolute;
+    top: 20%;
+    left: 48%;
+    opacity: .2;
+}
+.vv{
+position: relative;
+
+}
+.pra{
+width: 50%;
+text-align: center;
+margin-left: 20rem;
+}
+.progress{
+    background-color: #f25454;
+}
+.pop{
+    position: absolute;
+    top: 20%;
+    left: 48%;
+    opacity: .2;
+}
+.vvv{
+    position: relative;
+    
+    }
+
+.ss{
+width: 100%;
+}
+
+
+.hlay{
+    overflow: hidden;
+
+}
+
+    .lay{
+
+        position: absolute;
+        
+        top: 0;
+        left: 0%;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: rgba(242, 84, 84, 0.85);
+        transition: transform 1s , opacity 1s  ;
+        opacity: 0;
+
+        
+
+    
+    }
+
+.ffa{
+    position: absolute;
+    top: 5rem;
+
+    color: white;
+}
+.hlay:hover img{
+    transform: scale(1.2,1.2);}
+
+
+.hlay:hover .lay{
+    opacity:1 ;
+
+
+}
+
+.we{
+    width: 50%;
+    height: 50%;
+}
+
+.carousel-item active{
+    border-radius: 50%;
+}
+.colo{
+    color: red;
+}
+
+
+.bbo{
+background-image: url('imges/map.jpg');
+width: 100%;
+}
+.bn{
+padding-top: 100%;
+color: white;
+}
+.bg{
+left: 50%;
+}
+.mna{
+    margin-left: 2%;
+    text-align: center;
+
+}
+.mna:hover{
+    color: red;
+}
+.wew{
+    bottom: 1rem;
+        left: 60%;
+        color: white;
+}
+.qwe{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clintone img{
+        
+    border-radius: 50%;
+    opacity: .5;
+    transition: 0.4s opacity;
+}
+.clintone img:hover 
+{
+    opacity: 1;
+}
+.clintcenter img
+{
+    transition: opacity .4s;
+    border-radius: 50%;
+    opacity: 1;
+}
+.clintcenter img:hover
+{
+opacity: 0.5;
+}
+
+
+.cv:hover {
+    color: red;
+    border-color: red;
+}
